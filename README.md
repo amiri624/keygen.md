@@ -11,6 +11,7 @@ ssh-keygen
 ```bash
 $ cd /root/.ssh
 ```
+```bash
 $ ls
 $ cat  id_ed25519.pub
 ```
