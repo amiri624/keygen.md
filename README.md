@@ -14,3 +14,6 @@ $ cd /root/.ssh
 $ ls
 $ cat  id_ed25519.pub
 ```
+```bash
+$ vim /etc/ssh/sshd_config
+```
