@@ -20,7 +20,7 @@ $ cat  id_ed25519.pub
 $ vim /etc/ssh/sshd_config
 ```
 ```bash
-$ PasswordAuthentication no           
+$ PasswordAuthentication no/yes           
 ```
 # port
 ### Anderest du port, ab 1024 bis 65535
