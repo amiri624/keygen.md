@@ -1,16 +1,16 @@
 # keygen.md
 
 ```bash
-$ apt install openssh-server
+apt install openssh-server
 ```
 ```bash
-$ ss -netlp
+ss -netlp
 ```
 ```bash
 ssh-keygen
 ```
 ```bash
-$ cd /root/.ssh
+cd /root/.ssh
 ```
 ```bash
 $ ls
