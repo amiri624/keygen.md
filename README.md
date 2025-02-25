@@ -13,8 +13,8 @@ ssh-keygen
 cd /root/.ssh
 ```
 ```bash
-$ ls
-$ cat  id_ed25519.pub
+ls
+cat  id_ed25519.pub
 ```
 ```bash
 $ vim /etc/ssh/sshd_config
